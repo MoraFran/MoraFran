@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoraFran (Fran Mora) and I'm Industrial Designer.
+- 👋 Hi, I’m @MoraFran (Fran Mora) and I'm an Industrial Designer.
 - 👀 I’m interested in software design and development.
 - 🌱 I’m currently learning UiPath for RPA and other programming languages.
 - 💞️ I’m looking to collaborate in the RPA department as a business analyst in a great company.
